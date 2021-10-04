@@ -19,5 +19,5 @@ I like to code various stuff using Javascript :)
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/429493473259814923/)
 
 # Stats
-<img src="https://github-readme-stats.vercel.app/api?username=EJBEAN2op&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=gotham" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EJBEAN2op&theme=gotham&exclude_repo=PUBobot-ki&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=itsAnanth&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=gotham" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnanth&theme=gotham&exclude_repo=PUBobot-ki&hide_border=true" />
