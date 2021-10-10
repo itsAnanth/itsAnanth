@@ -8,9 +8,7 @@ I like to code various stuff using Javascript :)
 [![](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com)
 
 ## Learning
-[![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)](https://www.w3schools.com)
-[![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.w3schools.com)
 
 # Other
 [![](https://img.shields.io/badge/discord%2Ejs-%232B61B3?style=for-the-badge)](https://discord.js.org)
