@@ -1,5 +1,5 @@
 # Hi there!
-I like to code various stuff using Javascript :)
+I'm Ananth, i love to code interesting and fun projects. I mainly use javascript for my projects, currently learning c++ :)
 # Languages
 ## Knows
 [![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
