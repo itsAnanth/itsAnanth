@@ -10,6 +10,7 @@ I like to code various stuff using Javascript :)
 
 ## Learning
 [![](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)](https://www.w3schools.com)
+[![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 
 # Other
 [![](https://img.shields.io/badge/discord%2Ejs-%232B61B3?style=for-the-badge)](https://discord.js.org)
