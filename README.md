@@ -1,5 +1,6 @@
 # Hi there!
 I'm Ananth, i love to code interesting and fun projects. I mainly use javascript for my projects, currently learning c++ :)
+
 I learnt everything i know right now from the internet, and i hope to contribute to help newer generations to fall in love with coding the same way i did
 # Languages
 ## Knows
