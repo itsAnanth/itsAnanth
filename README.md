@@ -17,6 +17,7 @@ I learnt everything i know right now from the internet, and i hope to contribute
 
 # Frameworks
 [![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
+[![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 
 # Other
 [![](https://img.shields.io/badge/discord%2Ejs-%232B61B3?style=for-the-badge)](https://discord.js.org)
