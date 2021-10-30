@@ -13,7 +13,7 @@ I learnt everything i know right now from the internet, and i hope to contribute
 ## Learning
 [![](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)](https://www.w3schools.com)
 [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]()
+[![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](.)
 
 # Frameworks
 [![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
