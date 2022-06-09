@@ -1,4 +1,4 @@
-# Hi there! (Temporarily away for exams)
+# Hi there! (Temporarily away for exams :()
 
 I'm Ananth a first year BsC Computer Science student, i love to code interesting and fun projects. I mainly use Javascript/Typescript for my projects.
 
