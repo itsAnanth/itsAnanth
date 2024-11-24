@@ -12,10 +12,12 @@ I learnt everything i know right now from the internet, and i hope to contribute
 [![](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com)
 [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)](https://www.w3schools.com)
+[![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 
 ## Learning
 
-[![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
 
 # Frameworks
 [![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
