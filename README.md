@@ -36,5 +36,6 @@ I learnt everything i know right now from the internet, and i hope to contribute
 [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15925814/ananthdev)
 
 # Stats
+![](https://komarev.com/ghpvc/?username=your-github-username)
 <img src="https://github-readme-stats.vercel.app/api?username=itsAnanth&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=gotham" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnanth&theme=gotham&exclude_repo=PUBobot-ki&hide_border=true" />
