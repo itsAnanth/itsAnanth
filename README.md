@@ -40,4 +40,4 @@ I learnt everything i know right now from the internet, and i hope to contribute
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=itsAnanth&rank_icon=github&show_icons=true&theme=gotham&include_all_commits=true" alt="itsAnanth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsAnanth&show_icons=true&locale=en&layout=compact&theme=gotham&langs_count=10&card_width=325" alt="itsAnanth" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsAnanth&show_icons=true&locale=en&layout=compact&theme=gotham&langs_count=10" alt="itsAnanth" /></p>
