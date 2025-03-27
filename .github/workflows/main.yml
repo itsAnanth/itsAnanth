@@ -50,6 +50,3 @@ jobs:
           plugin_stackoverflow_user: 15925814
           plugin_stackoverflow_sections: answers-top
 
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
-          plugin_leetcode_user: itsAnanth
