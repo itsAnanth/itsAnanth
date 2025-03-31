@@ -2799,7 +2799,7 @@ I think the problem is that the library that you're using is not providing a def
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.13m out of 246m repositories</span>
+                                    <span class="gh">ranked 3.13m out of 244m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -2898,7 +2898,7 @@ I think the problem is that the library that you're using is not providing a def
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Mar 2025, 06:36:30  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Mar 2025, 07:26:00  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
