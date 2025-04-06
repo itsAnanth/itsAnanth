@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.8888935848398" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="269.8888935848398" y="0" width="112.76822216686627" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="382.6571157517061" y="0" width="50.03807031214851" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="432.6951860638546" y="0" width="12.042367951212661" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="444.73755401506725" y="0" width="7.2531043752131446" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="451.9906583902804" y="0" width="3.334396089783379" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.3250544800638" y="0" width="2.933118211172498" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.2581726912363" y="0" width="1.7418273087637286" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="272.43825461379055" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="272.43825461379055" y="0" width="111.256017455015" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.6942720688055" y="0" width="49.367067397994134" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="433.06133946679967" y="0" width="11.880881628135548" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="444.94222109493523" y="0" width="7.15584134844026" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.09806244337545" y="0" width="3.2896823452438255" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="455.3877447886193" y="0" width="2.8937855419672633" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.2815303305865" y="0" width="1.718469669413468" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2530,7 +2530,7 @@ I think the problem is that the library that you're using is not providing a def
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Apr 2025, 17:20:35  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Apr 2025, 18:31:33  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
