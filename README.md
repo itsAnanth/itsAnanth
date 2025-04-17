@@ -36,4 +36,5 @@ I learnt everything i know right now from the internet, and i hope to contribute
 [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15925814/ananthdev)
 
 # Stats
+![Streak](https://nirzak-streak-stats.vercel.app/?user=itsAnanth&theme=gruvbox&hide_border=false)
 ![Metrics](/github-metrics.svg)
