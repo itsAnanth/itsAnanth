@@ -37,5 +37,6 @@ I learnt everything i know right now from the internet, and i hope to contribute
 
 # Stats
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=itsAnanth&theme=gruvbox&hide_border=false&card_width=500)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=itsAnanth&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&card_width=500)
 <!--![Metrics](/github-metrics.svg)-->
