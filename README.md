@@ -2,7 +2,7 @@
 
 I'm Ananth Sankar, a first year MsC Machine Intelligence student at IIITM-K, i love to code interesting and fun projects. I mainly use Javascript/Typescript/Python for my projects.
 
-I learnt everything i know right now from the internet, and i hope to contribute to help newer generations to fall in love with coding the same way i did!
+I learnt everything i know right now from the internet, and i hope to contribute to help newer generations to fall in love with coding the same way i did! :D
 # Languages
 ## Knows
 [![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
