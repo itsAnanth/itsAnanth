@@ -1,6 +1,6 @@
 # Hi there! 
 
-I'm Ananth Sankar, a first year MsC Machine Intelligence student at IIITM-K, i love to code interesting and fun projects. I mainly use Javascript/Typescript/Python for my projects.
+I'm Ananth Sankar, a first year MsC Machine Intelligence student at IIITM-K, i love to code interesting and fun projects. I mainly use Javascript/Typescript/Python for my projects
 
 I learnt everything i know right now from the internet, and i hope to contribute to help newer generations to fall in love with coding the same way i did! :D
 # Languages
