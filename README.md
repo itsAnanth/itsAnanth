@@ -1,6 +1,6 @@
 # Hi there! 
 
-I'm Ananth Sankar, a first year MsC Machine Intelligence student at IIITM-K, i love to code interesting and fun projects. I mainly use Javascript/Typescript/Python for my projects!
+I'm Ananth Sankar, a final year MsC Machine Intelligence student at IIITM-K, i love to code interesting and fun projects. I mainly use Javascript/Typescript/Python for my projects!
 
 I learnt everything i know right now from the internet, and i hope to contribute to help newer generations to fall in love with coding the same way i did! :D
 # Languages
@@ -41,3 +41,4 @@ I learnt everything i know right now from the internet, and i hope to contribute
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=itsAnanth&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&card_width=500)
 <!--![Metrics](/github-metrics.svg)-->
+
